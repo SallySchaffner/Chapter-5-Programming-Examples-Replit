@@ -1,4 +1,7 @@
-//Sales Bar Chart
+// Sales Bar Chart. 
+// This program reads sales data for a number
+// of stores from a data file. It creates a bar chart that
+// displays a row of stars where each star represents $100 in sales
 
 #include <iostream>
 #include <fstream>
